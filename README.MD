@@ -7,4 +7,4 @@ Import e export <br>
 Herança e polimorfismo <br>
 Encapsulamento
 
-Acesse o [GitHUb Pages](https://arthurguardieiro.github.io/devs-dragons/)
+Acesse o [GitHub Pages](https://arthurguardieiro.github.io/devs-dragons/)
